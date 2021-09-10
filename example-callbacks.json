@@ -1,0 +1,12 @@
+{
+    "cog_embed_builder_get_json": {
+        "_code_comment": "To identify which action on the dashboard called",
+        "code": 1,
+        "data": {
+            "to_socket_id": "",
+            "nonce": 
+            "channel_id": 213,
+            "message_id": 123
+        }
+    }
+}
